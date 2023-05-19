@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-library_data/*
+library_data/place_data_files_here
 
 # C extensions
 *.so
