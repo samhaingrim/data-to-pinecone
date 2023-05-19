@@ -2,6 +2,8 @@
 
 vectorizer was written using python 3.11.3
 
+vectorizer.py will parse any files you place in a ```library_data``` folder, and store them in a 1536 dimension Pinecone vector index.
+
 ## Installation
 
 ### Set up environment variables
@@ -20,6 +22,7 @@ vectorizer was written using python 3.11.3
 
 ### Populate library_data folder
 
+* Create a ```library_data``` folder.
 * Fill the ```library_data``` folder with the documents you want to populate the Pinecone index. A wide variety of documents can be used, ```.txt, .pdf, .doc, .csv, ...more```.
 
 ### Run vextorizer.py
