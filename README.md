@@ -1,8 +1,8 @@
-# vectorizor
+# datatopinecone
 
-vectorizer was written using python 3.11.3
+datatopinecone was written using python 3.11.3
 
-vectorizer.py will parse any files you place in a ```library_data``` folder, and store them in a 1536 dimension Pinecone vector index.
+datatopinecone.py will parse any files you place in a ```library_data``` folder, and store them in a 1536 dimension Pinecone vector index.
 
 ## Installation
 
@@ -14,7 +14,7 @@ vectorizer.py will parse any files you place in a ```library_data``` folder, and
 
 ### Set the Pinecone index name variable
 
-* ```PINECONE_API_INDEX``` in vectorizer.py
+* ```PINECONE_API_INDEX``` in datatopinecone.py
 
 ### Install requirements
 

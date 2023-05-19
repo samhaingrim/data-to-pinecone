@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-vectorizer.py: This file is used to vectorize the data files and store it in Pinecone.
+datatopinecone.py: This file is used to vectorize the data files and store it in Pinecone.
 Created on Mon Aug  2 15:04:00 2021
 """
 
